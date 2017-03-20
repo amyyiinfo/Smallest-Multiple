@@ -1,0 +1,6 @@
+C:\temp\SmallestMultiple\SmallestMultiple\bin\Debug\SmallestMultiple.exe.config
+C:\temp\SmallestMultiple\SmallestMultiple\obj\Debug\SmallestMultiple.csprojResolveAssemblyReference.cache
+C:\temp\SmallestMultiple\SmallestMultiple\bin\Debug\SmallestMultiple.exe
+C:\temp\SmallestMultiple\SmallestMultiple\bin\Debug\SmallestMultiple.pdb
+C:\temp\SmallestMultiple\SmallestMultiple\obj\Debug\SmallestMultiple.exe
+C:\temp\SmallestMultiple\SmallestMultiple\obj\Debug\SmallestMultiple.pdb
